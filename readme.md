@@ -2,9 +2,10 @@
 
 
 ## require
+1. ruby environment.
+2. [Sass >=3.4](http://sass-lang.com/install)
 
-1.ruby environment
-2. [Sass >=3.4](http://sass-lang.com/install).
+
 
 ## Installation
 
