@@ -1,0 +1,20 @@
+{
+  "name": "gulp-bootstrap-fontAwesome-postcss-start-kit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/yoohan-dex/gulp-bootstrap-fontAwesome-postcss-start-kit",
+  "authors": [
+    "yoohan-dex"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3",
+    "fontawesome": "~4.3.0"
+  }
+}
