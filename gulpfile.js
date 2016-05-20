@@ -58,6 +58,7 @@ gulp.task('postcss', () => {
 
 gulp.task('watch', () => {
   gulp.watch(config.sassPath + '/**/*.scss', ['css']);
+  gulp.watch('./public/css/*.css',reload);
   gulp.watch('./public/*.html', reload);
 })
 
