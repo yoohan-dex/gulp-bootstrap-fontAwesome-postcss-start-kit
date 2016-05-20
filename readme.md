@@ -1,6 +1,11 @@
 # Setting up Gulp, Bower, Bootstrap Sass,Postcss & FontAwesome
 
 
+## require
+1. ruby environment.
+2. [Sass >=3.4](http://sass-lang.com/install)
+
+
 
 ## Installation
 
